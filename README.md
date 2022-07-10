@@ -3,7 +3,7 @@
 <h3 align="center">A passionate developer from Vietnam </h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Minhtu103" alt="Minhtu103" /> <img src="https://badges.pufler.dev/repos/Minhtu103" alt="minhtu103" /> </p>
 
-- ✍ I'm a student of: [Ha Noi city University of Transport and Comunication](https://www.utc.edu.vn) (HNUTC).
+- ✍ I'm a student of: [Ha Noi University of Transport and Comunication](https://www.utc.edu.vn) (HNUTC).
 
 - 🌱 I’m currently learning **Automation control engineering.**
 
